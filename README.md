@@ -58,28 +58,28 @@ C 프로그래밍에서 라이브러리 및 메모리 관리, 디버깅 기법�
 3. **GIT 사용법 정리**: Git과 GitHub 계정 생성 후 모든 과제를 lab2 프로젝트에 업로드.
 
 4. **GDB 및 VSCode 사용법 정리**: GDB 및 VSCode에서의 디버깅 방법 정리 및 실습 결과 포함.
-   - **파일명**: `lab2/exam0.md`
+   - **파일명**: `lab2/exam04`
 
 5. **perror() 함수 구현**: 라이브러리 함수인 perror()와 동일하게 동작하는 my_perror() 함수 구현.
-   - **파일명**: `my_perror.c`
+   - **파일명**: `lab2/exam05/exam5.c`
 
 6. **assert() 함수 구현**: assert() 함수와 동일하게 동작하는 my_assert() 함수 구현.
-   - **파일명**: `my_assert.c`
+   - **파일명**: `lab2/exam06/exam6.c`
 
 7. **gprof와 Valgrind 적용**: gprof 프로파일링과 Valgrind 메모리 누수 디버깅을 적용.
-   - **파일명**: `profiling_results.md`
+   - **파일명**: `lab2/exam07`
 
 8. **행렬 덧셈 프로그램**: 두 행렬의 크기를 입력받아 동적으로 메모리 할당 후 덧셈.
-   - **파일명**: `matrix_addition.c`
+   - **파일명**: `mlab2/exam08/exam8.c`
 
 9. **C++ STL 및 Rust 구현**: C++ STL의 vector와 Rust의 Vec<T> 자료형을 활용하여 행렬 덧셈 구현.
-   - **파일명**: `matrix_addition_cpp.cpp`, `matrix_addition_rust.rs`
+   - **파일명**: `lab2/exam09/exam9(Rust)`, `lab2/exam09/exam9.cpp`
 
 10. **학생 정보 구조체**: 학생 수, 이름, 중간 및 기말 점수를 기록하는 구조체 및 트리 구조체 탐색 프로그램 작성.
-    - **파일명**: `student_tree.c`
+    - **파일명**: `lab2/exam10/exam10.c`
 
 11. **C++ STL 및 Rust의 map 구현**: C++ STL의 map 및 Rust의 BTreeMap을 활용하여 학생 정보 프로그램 구현.
-    - **파일명**: `student_map_cpp.cpp`, `student_map_rust.rs`
+    - **파일명**: `lab2/exam11/exam11(Rust)`, `lab2/exam11/exam11.cpp`
 
 ---
 
