@@ -127,31 +127,30 @@ C 프로그래밍에서 라이브러리 및 메모리 관리, 디버깅 기법�
 
 ### 내용
 1. **GitHub 저장소 생성**: lab4 프로젝트 생성 후 모든 과제 프로그램 업로드.
-   - **파일명**: `git_repository.md`
 
 2. **쓰레드 함수 사용**: 쓰레드 관련 함수들을 사용하여 프로그램 작성.
-   - **파일명**: `thread_operations.c`
+   - **파일명**: `lab4/lab4-02/random_number_generator.c`
 
 3. **생산자 소비자 문제**: 쓰레드를 사용하여 제한 버퍼 구현.
-   - **파일명**: `bounded_buffer.c`
+   - **파일명**: `lab4/lab4-03/producer_consumer.c`
 
 4. **메시지 방송 프로그램**: 클라이언트 쓰레드로부터 메시지 요청을 받고 방송하는 서버 쓰레드 프로그램.
-   - **파일명**: `broadcast_server.c`
+   - **파일명**: `lab4/lab4-04/message_broadcast.c`
 
 5. **소켓 프로그래밍**: 소켓을 이용한 프로그램 작성.
-   - **파일명**: `socket_example.c`
+   - **파일명**: `lab4/lab4-05/client/file_client.c`, `lab4/lab4-05/server/file_server.c`
 
 6. **다중 클라이언트 채팅 프로그램**: 멀티프로세스/쓰레드, select 또는 epoll 사용하여 채팅 프로그램 구현.
-   - **파일명**: `multi_client_chat.c`
+   - **파일명**: `lab4/lab4-06/client.c`, `lab4/lab4-06/server.c`
 
 7. **간단한 웹서버 구현**: TCP 소켓을 이용하여 HTTP GET/POST 메소드 및 CGI 프로그램 실행 구현.
-   - **파일명**: `simple_web_server.c`
+   - **파일명**: `lab4/lab4-07/web_server.c`
 
 8. **GUI 함수 사용**: GUI 관련 함수들을 사용하여 프로그램 작성.
-   - **파일명**: `gui_example.c`
+   - **파일명**: `lab4/lab4-08/server.c`, `lab4/lab4-08/gui_client.c`
 
 9. **GTK+ 또는 Qt 계산기 프로그램**: 간단한 계산기 프로그램 작성.
-   - **파일명**: `calculator_gtk.c` 또는 `calculator_qt.cpp`
+   - **파일명**: `lab4/lab4-09/calc.c`
 
 ---
 
