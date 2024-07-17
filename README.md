@@ -90,34 +90,33 @@ C 프로그래밍에서 라이브러리 및 메모리 관리, 디버깅 기법�
 
 ### 내용
 1. **GitHub 저장소 생성**: lab3 프로젝트 생성 후 모든 과제 프로그램 업로드.
-   - **파일명**: `git_repository.md`
 
 2. **파일 및 디렉토리 함수 사용**: 파일 및 디렉토리 관련 함수들을 사용하여 프로그램 작성.
-   - **파일명**: `file_directory_operations.c`
+   - **파일명**: `lab3/lab3-02/file_dir.c`
 
 3. **디렉토리 탐색 프로그램**: 주어진 디렉토리 내의 파일 및 디렉토리를 나열하는 프로그램 작성 (ls -R과 동일).
-   - **파일명**: `list_directories.c`
+   - **파일명**: `lab3/lab3-03/ls.c`
 
 4. **타자 연습 프로그램**: 몇 개의 문장을 타자하고 잘못 타이핑한 횟수 및 평균 분당 타자수 측정.
-   - **파일명**: `typing_practice.c`
+   - **파일명**: `lab3/lab3-04/typingtest.c`
 
 5. **프로세스 관련 함수 사용**: 프로세스 관련 함수들을 사용하여 프로그램 작성.
-   - **파일명**: `process_operations.c`
+   - **파일명**: `lab3/lab3-05/process.c`
 
 6. **system 함수 구현**: 직접 구현한 함수로 쉘 명령을 실행하도록 하는 프로그램 작성.
-   - **파일명**: `my_system.c`
+   - **파일명**: `lab3/lab3-06/system_exam.c`
 
 7. **시그널 함수 사용**: 시그널과 관련된 함수들을 사용하여 프로그램 작성.
-   - **파일명**: `signal_operations.c`
+   - **파일명**: `lab3/lab3-07/sig.c`
 
 8. **프로세스 간 통신**: IPC 함수들을 사용하여 프로그램 작성.
-   - **파일명**: `ipc_operations.c`
+   - **파일명**: `lab3/lab3-08/pipe_input.c`, `lab3/lab3-08/pipe_output.c`, `lab3/lab3-08/pipelien_sharedmemory.c`
 
 9. **메시지 큐**: 텍스트 기반 간단한 채팅 프로그램 구현.
-   - **파일명**: `chat_program.c`
+   - **파일명**: `lab3/lab3-09/receive.c`, `lab3/lab3-09/send.c`
 
 10. **공유 메모리**: 파일 복사 프로그램 작성 (부모와 자식 프로세스 동기화).
-    - **파일명**: `file_copy.c`
+    - **파일명**: `lab3/lab3-10/copied_test.c`, `lab3/lab3-10/shared_copy.c`
 
 ---
 
